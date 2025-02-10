@@ -18,7 +18,7 @@ $message = "Все возвращаются на работу!";
 echo $days." дней и теперь... ".$message."<br>";
 
 echo "$days дней и теперь... $message <br>"
-?>
+
 ```
 4. Для запуска встроенного сервера PHP можно использовать команду `php -S localhost:8000` в терминале в папке проекта (если используете XAMPP, включите Apache в XAMPP Control Panel).
 5. Откройте браузер и перейдите по адресу `http://localhost:8000/` или `http://localhost/index.php` для XAMPP.
