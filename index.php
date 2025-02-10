@@ -10,4 +10,3 @@ $message = "Все возвращаются на работу!";
 echo $days." дней и теперь... ".$message."<br>";
 
 echo "$days дней и теперь... $message <br>"
-?>
